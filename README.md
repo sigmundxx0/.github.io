@@ -1,2 +1,2 @@
 # .github.io
-Base for ai2warehouses.com
+ai2warehouses.com
